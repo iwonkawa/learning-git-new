@@ -11,3 +11,4 @@ for name in names:
   name_dict[name[0]] = v
 
 print(name_dict)
+print("'Hiszpanska inkwizycja' to najlepszy skecz grupy Monty Pythona")
