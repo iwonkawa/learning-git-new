@@ -12,3 +12,4 @@ for name in names:
 
 print(name_dict)
 print("'Hiszpanska inkwizycja' to najlepszy skecz grupy Monty Pythona")
+print("zmiany")
